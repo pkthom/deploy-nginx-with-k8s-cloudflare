@@ -2,12 +2,12 @@
 
 ## INDEX
 
-- [0. Requirements]()
-- [1. Install ingress-nginx and nginx test app (with Helm)]()
-- [2. Create a Cloudflare Tunnel]()
-- [3. Create namespace and Secret for cloudflared]()
-- [4. Apply cloudflared-deploy.yaml]()
-- [5. Test]()
+- [0. Requirements](https://github.com/pkthom/deploy-nginx-with-k8s-cloudflare#0-requirements)
+- [1. Install ingress-nginx and nginx test app (with Helm)](https://github.com/pkthom/deploy-nginx-with-k8s-cloudflare#1-install-ingress-nginx-and-nginx-test-app-with-helm)
+- [2. Create a Cloudflare Tunnel](https://github.com/pkthom/deploy-nginx-with-k8s-cloudflare#2-create-a-cloudflare-tunnel)
+- [3. Create namespace and Secret for cloudflared](https://github.com/pkthom/deploy-nginx-with-k8s-cloudflare#3-create-namespace-and-secret-for-cloudflared)
+- [4. Apply cloudflared-deploy.yaml](https://github.com/pkthom/deploy-nginx-with-k8s-cloudflare#4-apply-cloudflared-deployyaml)
+- [5. Test](https://github.com/pkthom/deploy-nginx-with-k8s-cloudflare#5-test)
 
 ## 0. Requirements
 You must already have:
